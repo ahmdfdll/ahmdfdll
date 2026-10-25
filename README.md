@@ -19,7 +19,7 @@ I'm passionate about technology and enjoy learning new things while continuously
   <a href="https://instagram.com/d1lmqdd" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://discord.gg/4e9svgyJP" target="_blank">
+  <a href="https://discord.com/users/1238492543843569877" target="_blank">
   <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="40" height="40"/>
 </a>
 </p>
